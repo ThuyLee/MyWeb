@@ -12,11 +12,11 @@ h1 {
 }
 
 table {
-    width: 90%;
+    width: 80%;
     border: maroon solid thin;
     text-align: center;
     padding: 1em;
-    margin: 1em;
+    margin: auto;
     box-shadow: 3px 3px 2px lightgrey;
 
     border-spacing: 2px 0px;
