@@ -48,3 +48,8 @@ a {
     padding-right: 1em;
     color: black;        
 }
+logo {
+    background-image: url("../image/logo.jpg");
+    background-repeat: no-repeat;
+    border-bottom: groove grey medium;
+}
